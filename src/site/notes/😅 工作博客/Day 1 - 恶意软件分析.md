@@ -11,9 +11,8 @@
 
 # 参考资料
 
-■ [如何开始学习恶意软件分析 | SANS研究所](https://www.sans.org/blog/how-you-can-start-learning-malware-analysis/)
-
-■ [Practical Malware Analysis Essentials for Incident Responders](https://www.youtube.com/watch?v=20xYpxe8mBg&feature=emb_title)
+* **[如何开始学习恶意软件分析 | SANS研究所](https://www.sans.org/blog/how-you-can-start-learning-malware-analysis/)
+* **[Practical Malware Analysis Essentials for Incident Responders](https://www.youtube.com/watch?v=20xYpxe8mBg&feature=emb_title)
 
 # 分析技巧
 
